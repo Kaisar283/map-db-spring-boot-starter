@@ -1,0 +1,2 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+kz/andersen/java_intensive_13/map_db_spring_boot_starter/MapDatabaseAutoConfiguration.java
